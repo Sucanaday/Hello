@@ -1,6 +1,6 @@
 <!-- Profile Header -->
 <h1 align="center">Hi 👋, I'm VAN Hung</h1>
-<h3 align="center">🌱 Beginner Programmer | 🛠️ Learning by Building | 🇳🇵 Nepal</h3>
+<h3 align="center">🌱 Beginner Programmer | 🛠️ Learning by Building | 🇳🇵 VIETNAM</h3>
 
 <!-- Typing SVG -->
 <p align="center">
@@ -10,8 +10,8 @@
 ## 🙋‍♂️ About Me
 
 - 🔰 I'm just getting started with **programming**  
-- 🐍 Currently learning **Python**, **APIs**, and **Telegram bots**
-- 🌍 I'm from **Nepal**, building small projects to grow
+- 🐍 Currently learning **Python**, **APIs**, and **FREE FIRE APIS**
+- 🌍 I'm from **VIETNAM**, building small projects to grow
 - ✨ My goal: turn curiosity into skill through consistent practice
 
 # 💻 Tech basics:
@@ -36,9 +36,8 @@
 
 ## 📫 Connect with Me
 
-[![Telegram](https://img.shields.io/badge/Telegram-%230096D6.svg?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/GauthaliChari)  
-[![GitHub](https://img.shields.io/badge/GitHub-%2312100E.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/bisug)
-
+[![Telegram](https://img.shields.io/badge/Telegram-%230096D6.svg?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/obiiyeuem)  
+[![GitHub](https://img.shields.io/badge/GitHub-%2312100E.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sucanaday)
 ---
 
 *“Every line of code is a step closer to mastery.”* ✨
